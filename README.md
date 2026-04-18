@@ -12,10 +12,10 @@ Launch the Xash3dFWGSLauncher.exe file and you will be greeted with such interfa
 <img width="723" height="229" alt="image" src="https://github.com/user-attachments/assets/570c595e-1634-4a32-9f0a-f0046469877a" />
 Launch Arguments is the arguments that xash3d.exe will launch with after pressing the launch button.
 <br>
-*If you skipped the first step, click the checkmark and copy the location of the xash3d.exe executable by pressing CTRL+SHIFT+C on windows 11. On Windows 10, copy the location of the Xash3d folder and paste it into the location field, followed by "xash3d.exe". Notice for Windows 11 users, after pasting in the location, delete the double quotes on the start and end of the location.*
+If you skipped the first step, click the checkmark and copy the location of the xash3d.exe executable by pressing CTRL+SHIFT+C on windows 11. On Windows 10, copy the location of the Xash3d folder and paste it into the location field, followed by "xash3d.exe". Notice for Windows 11 users, after pasting in the location, delete the double quotes on the start and end of the location.
 <br>
 That's pretty much it! If you used Xash3d on mobile or just was tired of launching the game with, for example, a Windows shortcut, this is easier!
 ### PS:
 This really is just a launcher for anything to be honest, like input an application and the launch arguments will launch with it!
 <br>
-I don't really know if I will be updating this tool, but pretty sure will be since this is a really basic version as of the first release. Enjoy using Xash3dFWGSLauncher!
+I don't really know if I will be updating this tool, but pretty sure I will since this is a really basic version as of the first release. Enjoy using Xash3dFWGSLauncher!
