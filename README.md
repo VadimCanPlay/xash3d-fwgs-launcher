@@ -1,6 +1,8 @@
 # xash3d-fwgs-launcher
 Very simple launcher for the PC version of Xash3d FWGS
 
+# Download
+Download this in the <a href="https://github.com/VadimCanPlay/xash3d-fwgs-launcher/releases/">releases</a> section.
 # How to use
 
 **Refer to this section when the tool has been launched.**
