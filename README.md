@@ -1,7 +1,7 @@
 # xash3d-fwgs-launcher
 Very simple launcher for the PC version of Xash3d FWGS
 
-<h1 tag="tutorial">How to use</h1>
+# How to use
 
 **Refer to this section when the tool has been launched.**
 
