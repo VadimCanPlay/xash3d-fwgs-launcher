@@ -15,6 +15,7 @@ Launch Arguments is the arguments that xash3d.exe will launch with after pressin
 If you skipped the first step, click the checkmark and copy the location of the xash3d.exe executable by pressing CTRL+SHIFT+C on windows 11. On Windows 10, copy the location of the Xash3d folder and paste it into the location field, followed by "xash3d.exe". Notice for Windows 11 users, after pasting in the location, delete the double quotes on the start and end of the location.
 <br>
 That's pretty much it! If you used Xash3d on mobile or just was tired of launching the game with, for example, a Windows shortcut, this is easier!
+
 ### PS:
 This really is just a launcher for anything to be honest, like input an application and the launch arguments will launch with it!
 <br>
