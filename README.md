@@ -2,6 +2,7 @@
 Very simple launcher for the PC version of Xash3d FWGS
 
 <h1 tag="tutorial">How to use</h1>
+
 **Refer to this section when the tool has been launched.**
 
 ## 1. File location of Xash3dFWGSLauncher.
